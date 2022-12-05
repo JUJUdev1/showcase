@@ -16,8 +16,8 @@ const Features = () => {
       <div>
         <h1 className={`${styles.h1Text} ${styles.whiteText}`}>Technologies</h1>
         <p className={`${styles.pText} ${styles.whiteText}`}>
-          ProNef has been developed using a cross-platform technology, React
-          Native
+          Mon application est développée avec React Native et utilise les
+          technologies suivantes :
         </p>
       </div>
       <div className={styles.flexWrap}>

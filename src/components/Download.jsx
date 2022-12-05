@@ -9,13 +9,13 @@ const Download = () => {
       <div className={`${styles.subSection} flex-col text-center`}>
         <div>
           <h1 className={`${styles.h1Text} ${styles.blackText}`}>
-            Download the Source Code
+            Vous pouvez télécharger l'application ici !
           </h1>
           <p className={`${styles.pText} ${styles.blackText}`}>
-            Get the full source code on Github
+            Vous pouvez trouver le code source de l'application sur Github
           </p>
         </div>
-        <button className={styles.btnPrimary}>Source Code </button>
+        <button className={styles.btnPrimary}>Code Source </button>
         <div className={styles.flexCenter}>
           <img
             src={assets.scene}

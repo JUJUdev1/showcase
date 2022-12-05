@@ -6,28 +6,28 @@ const App = () => {
   return (
     <>
       <SectionWrapper
-        title="You own store of Nifty NFTs. Start Selling & Growing"
-        description="Buy, store, collect NFTS, exchange & earn crypto. Join 25+ million people using ProNef Marketplace."
+        title="Votre propre boutique de NFTs en ligne. Commencez à vendre et à faire croître votre collection"
+        description="Achetez, stockez, collectez des NFTS, échangez et gagnez de la crypto."
         showBtn
         mockupImg={assets.homeHero}
         banner="banner"
       />
       <SectionWrapper
-        title="Smart User Interface Marketplace"
-        description="Experience a buttery UI of Pro,ef NFT Marketplace. Smooth constant colors of a fluent UI design."
+        title="Utilisation facile et intuitive."
+        description="En quelques clics, vous pouvez commencer à vendre , acheter et échanger des NFTs sur votre propre boutique en ligne."
         mockupImg={assets.homeCards}
         reverse
       />
       <Features />
       <SectionWrapper
-        title="Deployment"
-        description="ProNef is build using Expo which runs natively on all users' devices. You can easily get your app into people's hands."
+        title="Deploiement"
+        description="Construit avec Expo, vous pouvez facilement déployer votre application sur tous les appareils des utilisateurs."
         mockupImg={assets.feature}
         reverse
       />
       <SectionWrapper
-        title="Creative way to showcase the store"
-        description="The app contains two screens. The first screen lists all NFTs while the second one shows the details of a specific NFT."
+        title="Créative et personnalisable"
+        description="L'application est entièrement personnalisable et vous pouvez facilement la modifier pour répondre à vos besoins."
         mockupImg={assets.mockup}
         banner="banner02"
       />
